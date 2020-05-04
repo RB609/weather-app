@@ -4,7 +4,6 @@ const hbs = require('hbs');
 
 const app = express();
 const port = process.env.PORT || 65535;
-
 const weather = require('./utils/weather');
 //app.com/
 //app.com/help
